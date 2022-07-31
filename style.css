@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(158, 4, 4);
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0px;
+}
+.reiteramos{
+    margin-top: 30px;
+    margin-left: 70px;
+}
+.logo-y-hora{
+    display: flex;
+    margin-top: 30px;
+    margin-right: 130px;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.hora{
+    font-size: 150%;
+    margin-left: 50px;
+}
+
+.logo img{
+    width: 130%;
+}
+p{
+    margin-top: 0px;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+
+.texto{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-transform: uppercase;
+    color: white;
+    text-shadow: 7px 2px 2px black;
+    margin-top: 200px;
+    text-align: center;
+}
+
+h1{
+    font-size: 60px;
+}
